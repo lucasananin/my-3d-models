@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6f89cc6358924444c9404ae30296d565
+AssetOrigin:
+  serializedVersion: 1
+  productId: 362166
+  packageName: CENSOR - Screen-Space Quantization and Refraction
+  packageVersion: 1.0.0
+  assetPath: Assets/Mirza/_VFXToolkit/_Demo/Scripts/MFXTK_FPSDisplay.cs
+  uploadId: 864670

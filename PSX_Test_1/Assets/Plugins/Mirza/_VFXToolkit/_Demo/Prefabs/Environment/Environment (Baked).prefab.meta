@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2d72ca71b19fff40a71bc8aa77c393e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 362166
+  packageName: CENSOR - Screen-Space Quantization and Refraction
+  packageVersion: 1.0.0
+  assetPath: Assets/Mirza/_VFXToolkit/_Demo/Prefabs/Environment/Environment (Baked).prefab
+  uploadId: 864670

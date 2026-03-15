@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef1017b533106124d9d2da8a0d8aeb42
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 362166
+  packageName: CENSOR - Screen-Space Quantization and Refraction
+  packageVersion: 1.0.0
+  assetPath: Assets/Mirza/_VFXToolkit/_Demo/Models/ProBuilder Meshes/pb_Mesh-14950(Clone).asset
+  uploadId: 864670

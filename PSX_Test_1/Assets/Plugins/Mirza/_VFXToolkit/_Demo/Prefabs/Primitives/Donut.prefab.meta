@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5328b4cf3abea3d4c83c23bbc80fd520
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 362166
+  packageName: CENSOR - Screen-Space Quantization and Refraction
+  packageVersion: 1.0.0
+  assetPath: Assets/Mirza/_VFXToolkit/_Demo/Prefabs/Primitives/Donut.prefab
+  uploadId: 864670

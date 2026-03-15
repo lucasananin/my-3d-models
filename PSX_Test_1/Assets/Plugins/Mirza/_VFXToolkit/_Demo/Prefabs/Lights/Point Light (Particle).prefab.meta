@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 117d86a89992199429d0fc6229c7af14
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 362166
+  packageName: CENSOR - Screen-Space Quantization and Refraction
+  packageVersion: 1.0.0
+  assetPath: Assets/Mirza/_VFXToolkit/_Demo/Prefabs/Lights/Point Light (Particle).prefab
+  uploadId: 864670
